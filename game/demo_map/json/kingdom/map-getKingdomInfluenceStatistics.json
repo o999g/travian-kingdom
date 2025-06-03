@@ -1,0 +1,23 @@
+{
+    "time": 0,
+    "serialNo": 0,
+    "response": {
+        "1": {
+            "villageId": "1",
+            "villageName": "Demo Village",
+            "population": "0",
+            "influence": 0,
+            "treasureBonus": 0,
+            "size": 0,
+            "level": 0,
+            "currentCells": 0,
+            "nextCells": 0,
+            "playerId": "0",
+            "players": {
+                "0": {"name": "demo", "influence": 0}
+            },
+            "currentFrom": null,
+            "currentTo": null
+        }
+    }
+}
