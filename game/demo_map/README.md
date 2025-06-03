@@ -18,3 +18,5 @@ config.devPHPUrl = "http://localhost:8080/map.php";
 The controller here serves static JSON from the `json/` directory while
 image assets remain loaded from the original `cdn` directory. CORS
 headers allow the rest of the project to fetch this data directly.
+
+When running from another directory, ensure the game URL is set to the full path to `map.php`. The script includes CORS headers so you can keep using images hosted by the original project.
