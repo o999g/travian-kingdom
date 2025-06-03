@@ -1,0 +1,19 @@
+{
+    "time": 0,
+    "serialNo": 0,
+    "response": {
+        "1": {
+            "region": {
+                "1": [
+                    { "id": "1", "resType": "11111", "landscape": "1", "owner": "0" }
+                ]
+            },
+            "player": {},
+            "kingdom": {},
+            "reports": []
+        },
+        "2": null,
+        "3": [],
+        "4": []
+    }
+}
